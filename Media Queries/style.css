@@ -1,0 +1,15 @@
+h1{
+    color:purple;
+}
+h2{
+    color:rgb(236, 40, 73);
+}
+
+
+
+@media screen and (max-width:500px) {
+    h1{
+        color: aqua;
+    }
+    
+}
